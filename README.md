@@ -1,2 +1,2 @@
 # .github
- ✨special ✨ repository that we had added to blah-blah
+ ✨special ✨ repository that we had added to add that magical README
